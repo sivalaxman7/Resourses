@@ -1,0 +1,22 @@
+{
+  "name": "resources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivalaxman7/Resourses.git"
+  },
+  "keywords": [
+    "resourses"
+  ],
+  "author": "siva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sivalaxman7/Resourses/issues"
+  },
+  "homepage": "https://github.com/sivalaxman7/Resourses#readme"
+}
